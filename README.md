@@ -1,2 +1,2 @@
-# smiple-app
+# simple-app
 learning
