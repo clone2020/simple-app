@@ -7,5 +7,7 @@ def checkName(name):
         print("hello ,", name)
     else:
         print("we are sorry! ,", name)
+        name = input("What is your name again ? ")
+        print("Welcome, ", name)
 
 checkName("rudra")
